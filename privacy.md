@@ -1,4 +1,4 @@
-Política de Privacidad para [Nombre de tu Bot]
+Política de Privacidad para GoodLife
 
 1. Información Recopilada:
 Este bot puede recopilar datos relacionados con las interacciones del usuario, como mensajes, comandos y ID de usuario.
