@@ -1,4 +1,4 @@
-Términos de Servicio para [Nombre de tu Bot]
+Términos de Servicio para GoodLife
 
 1. Aceptación de los Términos:
 Al interactuar con este bot, aceptas estos términos y condiciones. Si no estás de acuerdo, no utilices este bot.
