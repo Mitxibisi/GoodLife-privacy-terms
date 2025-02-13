@@ -41,7 +41,11 @@ main {
     text-align: center;
 }
 
-main p button{
+main p {
+    display: inline;
+}
+
+main p button {
     padding: 20px 40 px;
     font-size: 20px;
     text-align: center;
