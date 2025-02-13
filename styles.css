@@ -41,6 +41,18 @@ main {
     text-align: center;
 }
 
+main p button{
+    padding: 10px;
+    text-align: center;
+    color:blue;
+}
+
+main p progress {
+    padding: 20px 40px;
+    font-size: 20px;
+    color: blue;
+}
+
 /* Estilos del footer */
 footer {
     background: #222;
