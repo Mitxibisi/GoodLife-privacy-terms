@@ -42,14 +42,14 @@ main {
 }
 
 main p button{
-    padding: 10px;
+    padding: 20px 40 px;
+    font-size: 20px;
     text-align: center;
     color:blue;
 }
 
 main p progress {
-    padding: 20px 40px;
-    font-size: 20px;
+    padding: 10px 20px;
     color: blue;
 }
 
